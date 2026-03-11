@@ -8,6 +8,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amanparganiha/PatternLearning/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/amanparganiha/PatternLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/amanparganiha/PatternLearning/tree/master/1732-find-the-highest-altitude) |
@@ -21,6 +22,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amanparganiha/PatternLearning/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/amanparganiha/PatternLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/amanparganiha/PatternLearning/tree/master/1732-find-the-highest-altitude) |
@@ -28,4 +30,8 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
