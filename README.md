@@ -17,6 +17,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/amanparganiha/PatternLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/amanparganiha/PatternLearning/tree/master/1732-find-the-highest-altitude) |
+| [2270-number-of-ways-to-split-array](https://github.com/amanparganiha/PatternLearning/tree/master/2270-number-of-ways-to-split-array) |
 ## Design
 |  |
 | ------- |
@@ -36,6 +37,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/amanparganiha/PatternLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/amanparganiha/PatternLearning/tree/master/1732-find-the-highest-altitude) |
+| [2270-number-of-ways-to-split-array](https://github.com/amanparganiha/PatternLearning/tree/master/2270-number-of-ways-to-split-array) |
 ## Matrix
 |  |
 | ------- |
