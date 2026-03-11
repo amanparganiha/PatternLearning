@@ -12,6 +12,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0525-contiguous-array](https://github.com/amanparganiha/PatternLearning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amanparganiha/PatternLearning/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/amanparganiha/PatternLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/amanparganiha/PatternLearning/tree/master/1732-find-the-highest-altitude) |
@@ -29,6 +30,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0525-contiguous-array](https://github.com/amanparganiha/PatternLearning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/amanparganiha/PatternLearning/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/amanparganiha/PatternLearning/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/amanparganiha/PatternLearning/tree/master/1732-find-the-highest-altitude) |
@@ -42,9 +44,14 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amanparganiha/PatternLearning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
