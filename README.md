@@ -60,4 +60,16 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amanparganiha/PatternLearning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/amanparganiha/PatternLearning/tree/master/0437-path-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/amanparganiha/PatternLearning/tree/master/0437-path-sum-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/amanparganiha/PatternLearning/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
