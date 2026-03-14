@@ -78,4 +78,12 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/amanparganiha/PatternLearning/tree/master/0437-path-sum-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/amanparganiha/PatternLearning/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/amanparganiha/PatternLearning/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
