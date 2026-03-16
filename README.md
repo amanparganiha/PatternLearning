@@ -7,6 +7,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amanparganiha/PatternLearning/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/amanparganiha/PatternLearning/tree/master/0238-product-of-array-except-self) |
@@ -84,6 +85,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amanparganiha/PatternLearning/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/amanparganiha/PatternLearning/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
