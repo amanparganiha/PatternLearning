@@ -21,6 +21,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0724-find-pivot-index](https://github.com/amanparganiha/PatternLearning/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/amanparganiha/PatternLearning/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amanparganiha/PatternLearning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/amanparganiha/PatternLearning/tree/master/1480-running-sum-of-1d-array) |
@@ -95,6 +96,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0283-move-zeroes](https://github.com/amanparganiha/PatternLearning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amanparganiha/PatternLearning/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/amanparganiha/PatternLearning/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -105,4 +107,8 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/amanparganiha/PatternLearning/tree/master/0633-sum-of-square-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
