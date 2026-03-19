@@ -12,6 +12,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0018-4sum](https://github.com/amanparganiha/PatternLearning/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amanparganiha/PatternLearning/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/amanparganiha/PatternLearning/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0018-4sum](https://github.com/amanparganiha/PatternLearning/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amanparganiha/PatternLearning/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/amanparganiha/PatternLearning/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -121,6 +123,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0015-3sum](https://github.com/amanparganiha/PatternLearning/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/amanparganiha/PatternLearning/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanparganiha/PatternLearning/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
