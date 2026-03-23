@@ -68,6 +68,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanparganiha/PatternLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amanparganiha/PatternLearning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanparganiha/PatternLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/amanparganiha/PatternLearning/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
@@ -124,6 +126,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanparganiha/PatternLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/amanparganiha/PatternLearning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amanparganiha/PatternLearning/tree/master/0344-reverse-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
