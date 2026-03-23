@@ -16,6 +16,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amanparganiha/PatternLearning/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/amanparganiha/PatternLearning/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0303-range-sum-query-immutable) |
@@ -44,6 +45,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amanparganiha/PatternLearning/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
@@ -81,6 +83,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/amanparganiha/PatternLearning/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/amanparganiha/PatternLearning/tree/master/1052-grumpy-bookstore-owner) |
@@ -130,6 +133,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/amanparganiha/PatternLearning/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
