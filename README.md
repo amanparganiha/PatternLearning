@@ -74,6 +74,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amanparganiha/PatternLearning/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/amanparganiha/PatternLearning/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -88,6 +89,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanparganiha/PatternLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amanparganiha/PatternLearning/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/amanparganiha/PatternLearning/tree/master/1004-max-consecutive-ones-iii) |
@@ -122,6 +124,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0283-move-zeroes](https://github.com/amanparganiha/PatternLearning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amanparganiha/PatternLearning/tree/master/0344-reverse-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/amanparganiha/PatternLearning/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +136,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0125-valid-palindrome](https://github.com/amanparganiha/PatternLearning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amanparganiha/PatternLearning/tree/master/0344-reverse-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/amanparganiha/PatternLearning/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
