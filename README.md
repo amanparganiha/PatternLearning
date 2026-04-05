@@ -30,6 +30,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amanparganiha/PatternLearning/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amanparganiha/PatternLearning/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/amanparganiha/PatternLearning/tree/master/1052-grumpy-bookstore-owner) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/amanparganiha/PatternLearning/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -78,6 +79,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amanparganiha/PatternLearning/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/amanparganiha/PatternLearning/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanparganiha/PatternLearning/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
@@ -94,6 +96,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amanparganiha/PatternLearning/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/amanparganiha/PatternLearning/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amanparganiha/PatternLearning/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/amanparganiha/PatternLearning/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amanparganiha/PatternLearning/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -179,4 +182,8 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/amanparganiha/PatternLearning/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
