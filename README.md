@@ -18,6 +18,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amanparganiha/PatternLearning/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/amanparganiha/PatternLearning/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
@@ -94,6 +95,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanparganiha/PatternLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/amanparganiha/PatternLearning/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanparganiha/PatternLearning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amanparganiha/PatternLearning/tree/master/0643-maximum-average-subarray-i) |
@@ -189,4 +191,16 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanparganiha/PatternLearning/tree/master/0992-subarrays-with-k-different-integers) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
