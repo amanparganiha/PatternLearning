@@ -139,6 +139,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/amanparganiha/PatternLearning/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanparganiha/PatternLearning/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
@@ -206,4 +207,8 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
