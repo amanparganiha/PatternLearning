@@ -129,6 +129,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amanparganiha/PatternLearning/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/amanparganiha/PatternLearning/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/amanparganiha/PatternLearning/tree/master/0125-valid-palindrome) |
@@ -218,6 +219,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amanparganiha/PatternLearning/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/amanparganiha/PatternLearning/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
