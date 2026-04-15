@@ -75,6 +75,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0001-two-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanparganiha/PatternLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/amanparganiha/PatternLearning/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanparganiha/PatternLearning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/amanparganiha/PatternLearning/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
@@ -135,6 +136,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0125-valid-palindrome](https://github.com/amanparganiha/PatternLearning/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amanparganiha/PatternLearning/tree/master/0283-move-zeroes) |
@@ -222,6 +224,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0061-rotate-list](https://github.com/amanparganiha/PatternLearning/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
