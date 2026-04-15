@@ -111,6 +111,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amanparganiha/PatternLearning/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/amanparganiha/PatternLearning/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
@@ -119,6 +120,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amanparganiha/PatternLearning/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/amanparganiha/PatternLearning/tree/master/0437-path-sum-iii) |
 ## Two Pointers
 |  |
@@ -222,6 +224,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amanparganiha/PatternLearning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/amanparganiha/PatternLearning/tree/master/0061-rotate-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amanparganiha/PatternLearning/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0160-intersection-of-two-linked-lists) |
@@ -235,9 +238,14 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amanparganiha/PatternLearning/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/amanparganiha/PatternLearning/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
