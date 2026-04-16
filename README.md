@@ -152,6 +152,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanparganiha/PatternLearning/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -192,6 +193,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -232,6 +234,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
