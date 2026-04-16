@@ -151,6 +151,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0876-middle-of-the-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanparganiha/PatternLearning/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -230,6 +231,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0160-intersection-of-two-linked-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
