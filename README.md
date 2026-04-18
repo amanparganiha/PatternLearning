@@ -24,6 +24,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
 | [0457-circular-array-loop](https://github.com/amanparganiha/PatternLearning/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/amanparganiha/PatternLearning/tree/master/0525-contiguous-array) |
@@ -196,6 +197,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -212,6 +214,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
