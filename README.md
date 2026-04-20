@@ -163,6 +163,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanparganiha/PatternLearning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/amanparganiha/PatternLearning/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/amanparganiha/PatternLearning/tree/master/0125-valid-palindrome) |
+| [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/amanparganiha/PatternLearning/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanparganiha/PatternLearning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -190,12 +191,14 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanparganiha/PatternLearning/tree/master/0011-container-with-most-water) |
+| [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
@@ -213,6 +216,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
