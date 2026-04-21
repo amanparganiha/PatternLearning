@@ -16,6 +16,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amanparganiha/PatternLearning/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/amanparganiha/PatternLearning/tree/master/0238-product-of-array-except-self) |
@@ -71,6 +72,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/amanparganiha/PatternLearning/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Hash Table
@@ -198,6 +200,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amanparganiha/PatternLearning/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
@@ -214,11 +217,13 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amanparganiha/PatternLearning/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
