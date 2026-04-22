@@ -34,6 +34,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0643-maximum-average-subarray-i](https://github.com/amanparganiha/PatternLearning/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/amanparganiha/PatternLearning/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -190,6 +191,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanparganiha/PatternLearning/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
@@ -210,6 +212,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/amanparganiha/PatternLearning/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -233,6 +236,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/amanparganiha/PatternLearning/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
 ## Counting
