@@ -171,6 +171,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0125-valid-palindrome](https://github.com/amanparganiha/PatternLearning/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/amanparganiha/PatternLearning/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/amanparganiha/PatternLearning/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanparganiha/PatternLearning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
@@ -199,6 +200,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0011-container-with-most-water](https://github.com/amanparganiha/PatternLearning/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/amanparganiha/PatternLearning/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +210,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/amanparganiha/PatternLearning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
@@ -233,6 +236,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0084-largest-rectangle-in-histogram](https://github.com/amanparganiha/PatternLearning/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/amanparganiha/PatternLearning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
