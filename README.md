@@ -33,6 +33,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0560-subarray-sum-equals-k](https://github.com/amanparganiha/PatternLearning/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/amanparganiha/PatternLearning/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/amanparganiha/PatternLearning/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/amanparganiha/PatternLearning/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
@@ -213,6 +214,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0402-remove-k-digits](https://github.com/amanparganiha/PatternLearning/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/amanparganiha/PatternLearning/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
@@ -222,6 +224,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/amanparganiha/PatternLearning/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
