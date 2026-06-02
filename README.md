@@ -102,6 +102,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/amanparganiha/PatternLearning/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/amanparganiha/PatternLearning/tree/master/0633-sum-of-square-numbers) |
 ## Sliding Window
@@ -234,6 +235,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/amanparganiha/PatternLearning/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -284,6 +286,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0143-reorder-list](https://github.com/amanparganiha/PatternLearning/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/amanparganiha/PatternLearning/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -301,4 +304,8 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/amanparganiha/PatternLearning/tree/master/0901-online-stock-span) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/amanparganiha/PatternLearning/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
