@@ -38,6 +38,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
+| [0962-maximum-width-ramp](https://github.com/amanparganiha/PatternLearning/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/amanparganiha/PatternLearning/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanparganiha/PatternLearning/tree/master/0992-subarrays-with-k-different-integers) |
@@ -160,6 +161,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0633-sum-of-square-numbers](https://github.com/amanparganiha/PatternLearning/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/amanparganiha/PatternLearning/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/0876-middle-of-the-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/amanparganiha/PatternLearning/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanparganiha/PatternLearning/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -220,6 +222,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/amanparganiha/PatternLearning/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/amanparganiha/PatternLearning/tree/master/0962-maximum-width-ramp) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/amanparganiha/PatternLearning/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
@@ -246,6 +249,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/amanparganiha/PatternLearning/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/amanparganiha/PatternLearning/tree/master/0962-maximum-width-ramp) |
 ## Counting
 |  |
 | ------- |
