@@ -24,6 +24,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0283-move-zeroes](https://github.com/amanparganiha/PatternLearning/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/amanparganiha/PatternLearning/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
@@ -80,6 +81,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/amanparganiha/PatternLearning/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Hash Table
 |  |
@@ -189,6 +191,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanparganiha/PatternLearning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/amanparganiha/PatternLearning/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amanparganiha/PatternLearning/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -198,6 +201,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0018-4sum](https://github.com/amanparganiha/PatternLearning/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0692-top-k-frequent-words](https://github.com/amanparganiha/PatternLearning/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
@@ -269,6 +273,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/amanparganiha/PatternLearning/tree/master/0692-top-k-frequent-words) |
 ## Monotonic Queue
 |  |
