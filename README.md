@@ -26,6 +26,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/amanparganiha/PatternLearning/tree/master/0457-circular-array-loop) |
+| [0480-sliding-window-median](https://github.com/amanparganiha/PatternLearning/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
@@ -93,6 +94,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0160-intersection-of-two-linked-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanparganiha/PatternLearning/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/amanparganiha/PatternLearning/tree/master/0457-circular-array-loop) |
+| [0480-sliding-window-median](https://github.com/amanparganiha/PatternLearning/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/amanparganiha/PatternLearning/tree/master/0525-contiguous-array) |
@@ -119,6 +121,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0209-minimum-size-subarray-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amanparganiha/PatternLearning/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/amanparganiha/PatternLearning/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/amanparganiha/PatternLearning/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/amanparganiha/PatternLearning/tree/master/0643-maximum-average-subarray-i) |
@@ -279,6 +282,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0480-sliding-window-median](https://github.com/amanparganiha/PatternLearning/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/amanparganiha/PatternLearning/tree/master/0692-top-k-frequent-words) |
 ## Monotonic Queue
