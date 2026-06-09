@@ -25,6 +25,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0303-range-sum-query-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0407-trapping-rain-water-ii) |
 | [0457-circular-array-loop](https://github.com/amanparganiha/PatternLearning/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/amanparganiha/PatternLearning/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
@@ -85,6 +86,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0407-trapping-rain-water-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/amanparganiha/PatternLearning/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Hash Table
 |  |
@@ -285,6 +287,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amanparganiha/PatternLearning/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/amanparganiha/PatternLearning/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/amanparganiha/PatternLearning/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -341,4 +344,8 @@ here I solve the questions pattern wise and learn how to implement those pattern
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/amanparganiha/PatternLearning/tree/master/0692-top-k-frequent-words) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
