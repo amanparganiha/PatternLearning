@@ -43,6 +43,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/amanparganiha/PatternLearning/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/amanparganiha/PatternLearning/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/amanparganiha/PatternLearning/tree/master/0962-maximum-width-ramp) |
@@ -229,6 +230,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0502-ipo](https://github.com/amanparganiha/PatternLearning/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/amanparganiha/PatternLearning/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/amanparganiha/PatternLearning/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +262,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/amanparganiha/PatternLearning/tree/master/0509-fibonacci-number) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/amanparganiha/PatternLearning/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -296,6 +299,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/amanparganiha/PatternLearning/tree/master/0692-top-k-frequent-words) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/amanparganiha/PatternLearning/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/amanparganiha/PatternLearning/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Monotonic Queue
 |  |
 | ------- |
