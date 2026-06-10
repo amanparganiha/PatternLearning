@@ -42,6 +42,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0735-asteroid-collision](https://github.com/amanparganiha/PatternLearning/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/amanparganiha/PatternLearning/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/amanparganiha/PatternLearning/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/amanparganiha/PatternLearning/tree/master/0930-binary-subarrays-with-sum) |
 | [0962-maximum-width-ramp](https://github.com/amanparganiha/PatternLearning/tree/master/0962-maximum-width-ramp) |
@@ -216,6 +217,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/amanparganiha/PatternLearning/tree/master/0692-top-k-frequent-words) |
 | [0853-car-fleet](https://github.com/amanparganiha/PatternLearning/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/amanparganiha/PatternLearning/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0977-squares-of-a-sorted-array](https://github.com/amanparganiha/PatternLearning/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/amanparganiha/PatternLearning/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
@@ -226,6 +228,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0402-remove-k-digits](https://github.com/amanparganiha/PatternLearning/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/amanparganiha/PatternLearning/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/amanparganiha/PatternLearning/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
@@ -292,6 +295,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0502-ipo](https://github.com/amanparganiha/PatternLearning/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/amanparganiha/PatternLearning/tree/master/0692-top-k-frequent-words) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/amanparganiha/PatternLearning/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Monotonic Queue
 |  |
 | ------- |
