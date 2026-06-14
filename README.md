@@ -26,6 +26,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0304-range-sum-query-2d-immutable](https://github.com/amanparganiha/PatternLearning/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/amanparganiha/PatternLearning/tree/master/0407-trapping-rain-water-ii) |
+| [0435-non-overlapping-intervals](https://github.com/amanparganiha/PatternLearning/tree/master/0435-non-overlapping-intervals) |
 | [0457-circular-array-loop](https://github.com/amanparganiha/PatternLearning/tree/master/0457-circular-array-loop) |
 | [0480-sliding-window-median](https://github.com/amanparganiha/PatternLearning/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/amanparganiha/PatternLearning/tree/master/0496-next-greater-element-i) |
@@ -213,6 +214,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0075-sort-colors](https://github.com/amanparganiha/PatternLearning/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/amanparganiha/PatternLearning/tree/master/0148-sort-list) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/amanparganiha/PatternLearning/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/amanparganiha/PatternLearning/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/amanparganiha/PatternLearning/tree/master/0502-ipo) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/amanparganiha/PatternLearning/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -227,6 +229,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | [0011-container-with-most-water](https://github.com/amanparganiha/PatternLearning/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/amanparganiha/PatternLearning/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/amanparganiha/PatternLearning/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/amanparganiha/PatternLearning/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/amanparganiha/PatternLearning/tree/master/0502-ipo) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/amanparganiha/PatternLearning/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/amanparganiha/PatternLearning/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -261,6 +264,7 @@ here I solve the questions pattern wise and learn how to implement those pattern
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanparganiha/PatternLearning/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/amanparganiha/PatternLearning/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/amanparganiha/PatternLearning/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/amanparganiha/PatternLearning/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/amanparganiha/PatternLearning/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/amanparganiha/PatternLearning/tree/master/0907-sum-of-subarray-minimums) |
